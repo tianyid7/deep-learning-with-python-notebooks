@@ -1,0 +1,12 @@
+[project]
+name = "deep-learning-with-python-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.5.5",
+    "keras>=3.12.1",
+    "keras-hub>=0.25.1",
+    "matplotlib>=3.10.8",
+]
