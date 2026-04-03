@@ -10,5 +10,7 @@ dependencies = [
     "keras>=3.12.1",
     "keras-hub>=0.25.1",
     "matplotlib>=3.10.8",
+    "pydot>=4.0.1",
+    "tensorboard>=2.20.0",
     "torch>=2.10.0",
 ]
