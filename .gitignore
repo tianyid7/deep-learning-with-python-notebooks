@@ -1,2 +1,8 @@
 .venv
 .idea
+.env
+train/*
+dogs_vs_cats_small/*
+plot_at_epoch_*.png
+checkpoint_path.keras
+convnet_from_scratch.keras
